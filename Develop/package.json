@@ -9,6 +9,6 @@
   "author": "Nahian Bari",
   "license": "ISC",
   "dependencies": {
-    "inquirer": "^9.1.0"
+    "inquirer": "^8.4.0"
   }
 }
