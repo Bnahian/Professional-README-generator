@@ -1,14 +1,14 @@
 {
-  "name": "week07readme",
+  "name": "static-site",
   "version": "1.0.0",
-  "description": "package.jason",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Nahian Bari",
+  "author": "",
   "license": "ISC",
   "dependencies": {
-    "inquirer": "^8.4.0"
+    "inquirer": "^8.2.4"
   }
 }
