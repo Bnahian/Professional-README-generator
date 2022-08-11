@@ -18,6 +18,6 @@ Video link: https://youtu.be/P0wWBuR3-VM
 
 Built With
 
-Javascript
-Node js
+Javascript, 
+Node js &
 Inquirer package
