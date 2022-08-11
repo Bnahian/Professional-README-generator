@@ -1,7 +1,7 @@
 
-# burger man
+# README
 ## Description
-jk
+This is a read me generator application
 ## Table of Contents
 * [Installation](#installation)
 * [Usage](#usage)
@@ -10,15 +10,15 @@ jk
 * [Tests](#tests)
 * [Questions](#questions)
 ## Installation
-not g
+npm i inquirer
 ## Usage
-dj
+use node index.js
 ## License
 This application is covered under the [MIT]([![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)) license.
 ## Contributing
-jdkjf
+tests
 ## Tests
-dkjfk
+node index.js
 ## Questions
-Please reach out to me with questions or comments. My GitHub user name is dkjfksd. My email address is jdjfkd.
+Please reach out to me with questions or comments. My GitHub user name is Bnahian. My email address is bnahian@gmail.com.
         
