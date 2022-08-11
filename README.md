@@ -16,10 +16,6 @@ AS A developer I WANT a README generator SO THAT I can quickly create a professi
 
 Video link: https://youtu.be/P0wWBuR3-VM
 
-Application walkthrough video link
-
-
-
 Built With
 
 Javascript
