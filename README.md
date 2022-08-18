@@ -14,7 +14,7 @@ User Story
 
 AS A developer I WANT a README generator SO THAT I can quickly create a professional README for a new project
 
-Video link: https://youtu.be/P0wWBuR3-VM
+Video link: https://drive.google.com/file/d/1OKh8EUmIGMcNCtP9ng9CL1qBkdMteWx8/view?usp=sharing
 
 Built With
 
